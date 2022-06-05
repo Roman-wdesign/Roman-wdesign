@@ -4,6 +4,7 @@
 <h2 align="center">Front-end developer</h2>
 
 - 🌱 I’m currently learning **Node, Docker**
+- ☀️ I like JS and Vue
 - 📫 How to reach me mail@wbcplace.ru
 
 
