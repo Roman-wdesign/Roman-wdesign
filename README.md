@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Front-end developer</h2>
 
-- 🌱 I’m currently learning **Node, Docker**
+- 🌱 I’m currently learning **Node, Docker, TypeScript**
 - ☀️ I like JS and Vue
 - 📫 How to reach me mail@wbcplace.ru
 
