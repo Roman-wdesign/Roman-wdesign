@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node, Docker, TypeScript**
 - ☀️ I like JS and Vue
-- 📫 How to reach me mail@wbcplace.ru
+- 📫 How to reach me gabbasov.tomsl@gmail.com
 
 
 
