@@ -4,7 +4,7 @@
 <h2 align="center">Front-end developer</h2>
 
 - 🌱 I’m currently learning **Apollo GQL , TypeScript**
-- ☀️ I like JS and Vue
+- ☀️ I like Vue, JS and TS
 - 📫 How to reach me mail@wbcplace.ru
 
 
