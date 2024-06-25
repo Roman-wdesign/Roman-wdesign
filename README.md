@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Apollo GQL , TypeScript**
 - ☀️ I like Vue, JS and TS
-- 📫 How to reach me mail@wbcplace.ru
+- 📫 How to reach me gabbasov.tomsk@gmail.com
 
 
 
