@@ -1,10 +1,13 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/Roman-wdesign" target="_blank">Roman</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">Front-end engineer</h2>
+<h2 align="start">Front-end engineer</h2>
 
 
 - ☀️ I develop high-load systems, stores, interfaces, do better app perfomance.
+     CRM, e-commerce projects. Drawing up the frontend structure according to architecture (MVC, FSD).
+     Ability to independently decompose tasks, experience in code review.
+  
 - 📫 If you have any interesting project, my Telegram @front4me or gabbasov.tomsk@gmail.com
 
 
