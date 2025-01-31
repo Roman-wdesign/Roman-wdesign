@@ -5,7 +5,7 @@
 
 
 - ☀️ I develop high-load systems, stores, interfaces, do better app perfomance.
-     CRM, e-commerce projects. Drawing up the frontend structure according to architecture (MVC, FSD).
+     CRM, e-commerce projects. I create the front-end structures according to architecture (MVC, FSD).
      Ability to independently decompose tasks, experience in code review.
   
 - 📫 If you have any interesting project, my Telegram @front4me or gabbasov.tomsk@gmail.com
@@ -27,7 +27,15 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Pinia](https://img.shields.io/badge/Pinia-%23eddc40?style=for-the-badge&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Npm](https://img.shields.io/badge/npm-%23cb3837?style=for-the-badge&logo=npm)
+
+
+![Static Badge](https://img.shields.io/badge/eslint-%234b32c3?style=for-the-badge&logo=eslint) ![Static Badge](https://img.shields.io/badge/prettier-%231a2b34?style=for-the-badge&logo=prettier)
+
+
+ 
 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
