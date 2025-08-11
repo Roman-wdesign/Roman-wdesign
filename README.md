@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/Roman-wdesign" target="_blank">Roman</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="start">Front-end engineer</h2>
+<h2 align="start">Web developer</h2>
 
 
 - ☀️ I develop high-load systems, stores, interfaces, do better app perfomance.
